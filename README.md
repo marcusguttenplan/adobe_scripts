@@ -1,6 +1,6 @@
 # Adobe Scripts
 
-Repo of super useful scripts amassed over time. Great for not doing repetitive design tasks that waste tons of time. Generally these are for photoshop and illustrator.
+Repo of super useful scripts amassed over time. Great for not doing repetitive design tasks that waste tons of time. Generally these are for photoshop and illustrator, but there are some for inDesign.
 
 
 #### SOURCES
