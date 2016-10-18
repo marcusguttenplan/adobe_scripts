@@ -2,6 +2,70 @@
 
 Repo of super useful scripts amassed over time. Great for not doing repetitive design tasks that waste tons of time. Generally these are for photoshop and illustrator, but there are some for inDesign.
 
+## USAGE
+
+### Export Layers
+Export PSD layers to IMG en masse.
+
+### Path Manipulators
+Scripts for connecting and playing with paths in Illustrator
+
+### Circle Fill
+Fill an object with random circles. Pretty cool particle effect.
+
+### Random Opacity
+Random opacities
+
+### Random Resize
+Random resizing
+
+### Random Order
+Random z-index ordering of objects
+
+### Random Select
+Random select objects
+
+### Random Fill From Swatches
+Randomly fill all objects with colors from swatches
+
+### Data Map To Objects
+Use a percentage or data to change fill of object
+
+### Delete Background
+Script to run a Photoshop action on every layer
+
+### Distribute Along Path
+Distribute objects along any path
+
+### Export PDF Layers
+AI >> PDF
+
+### Export PNG Layers
+AI >> PNG
+
+### Find and Replace
+Find and replaces objects in Illustrator
+
+### Export inDesign Layers to Photoshop
+inDesign layers >> Photoshop layers
+
+### Draw Lines Between All Selected Points (Network Diagram)
+Connect all select points with lines
+
+### Split PSD objects to Layers
+Place every photoshop oject on its own layer
+
+### Export PSD layers as SVG
+PSD >> SVG
+
+### Layer Renamer
+Batch rename layers in Photoshop (maybe Illustrator and others?)
+
+### Rotate Objects Toward Point
+Rotate objects towards one specific point
+
+### Close Paths, Connect Points
+Close Illustrator paths
 
 #### SOURCES
 
