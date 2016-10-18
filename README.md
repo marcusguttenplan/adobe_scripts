@@ -4,69 +4,94 @@ Repo of super useful scripts amassed over time. Great for not doing repetitive d
 
 ## USAGE
 
-* #### Export Layers
+#### Export Layers
+```
 Export PSD layers to IMG en masse.
-
-* #### Path Manipulators
+```
+#### Path Manipulators
+```
 Scripts for connecting and playing with paths in Illustrator
-
-* #### Circle Fill
+```
+#### Circle Fill
+```
 Fill an object with random circles. Pretty cool particle effect.
-
-* #### Random Opacity
+```
+#### Random Opacity
+```
 Random opacities
-
-* #### Random Resize
+```
+#### Random Resize
+```
 Random resizing
-
-* #### Random Order
+```
+#### Random Order
+```
 Random z-index ordering of objects
-
-* #### Random Select
+```
+#### Random Select
+```
 Random select objects
-
-* #### Random Fill From Swatches
+```
+#### Random Fill From Swatches
+```
 Randomly fill all objects with colors from swatches
-
-* #### Data Map To Objects
+```
+#### Data Map To Objects
+```
 Use a percentage or data to change fill of object
-
-* #### Delete Background
+```
+#### Delete Background
+```
 Script to run a Photoshop action on every layer
-
-* #### Distribute Along Path
+```
+#### Distribute Along Path
+```
 Distribute objects along any path
-
-* #### Export PDF Layers
+```
+#### Export Layers as PDF
+```
 AI >> PDF
-
-* #### Export PNG Layers
+```
+#### Export Layers as PNG
+```
 AI >> PNG
-
-* #### Find and Replace
+```
+#### Export Layers as AI
+```
+AI >> AI
+```
+#### Find and Replace
+```
 Find and replaces objects in Illustrator
-
-* #### Export inDesign Layers to Photoshop
+```
+#### Export inDesign Layers to Photoshop
+```
 inDesign layers >> Photoshop layers
-
-* #### Draw Lines Between All Selected Points (Network Diagram)
+```
+#### Draw Lines Between All Selected Points (Network Diagram)
+```
 Connect all select points with lines
-
-* #### Split PSD objects to Layers
+```
+#### Split PSD objects to Layers
+```
 Place every photoshop oject on its own layer
-
-* #### Export PSD layers as SVG
+```
+#### Export PSD layers as SVG
+```
 PSD >> SVG
-
-* #### Layer Renamer
+```
+#### Layer Renamer
+```
 Batch rename layers in Photoshop (maybe Illustrator and others?)
-
-* #### Rotate Objects Toward Point
+```
+#### Rotate Objects Toward Point
+```
 Rotate objects towards one specific point
-
-* #### Close Paths, Connect Points
+```
+#### Close Paths, Connect Points
+```
 Close Illustrator paths
-
+```
 ## SOURCES
 
 * [distribute on path](https://shspage.blogspot.com/2014/02/distributeonthepathjsx.html)
